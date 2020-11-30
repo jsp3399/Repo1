@@ -1,0 +1,10 @@
+ Volume in drive D is SATYA PRIYA
+ Volume Serial Number is B8F5-D130
+
+ Directory of D:\ExampleJIT
+
+30/11/2020  11:27    <DIR>          .
+30/11/2020  11:27    <DIR>          ..
+30/11/2020  11:27                 0 test2.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  176,366,481,408 bytes free
